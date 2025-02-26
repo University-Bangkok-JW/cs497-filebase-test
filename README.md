@@ -1,6 +1,6 @@
 # Information
 
-This repository was created for testing [`Firebase`](https://firebase.com) purposes. Therefore, it will not be maintained in the future.
+This repository was created for testing [`Filebase`](https://filebase.com) purposes. Therefore, it will not be maintained in the future.
 
 # 👥 Members
 
